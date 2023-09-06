@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\bin\Debug\net7.0\Order.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\bin\Debug\net7.0\Order.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\bin\Debug\net7.0\Order.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\bin\Debug\net7.0\Order.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\bin\Debug\net7.0\Order.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\Order.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\Order.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\Order.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\refint\Order.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\Order.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\Order.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\C# Códigos de Prog. Orientada a Objetos + Projetos\Seção9-Enumeraçoes e composição\Order\Order\obj\Debug\net7.0\ref\Order.dll
